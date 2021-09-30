@@ -1,7 +1,7 @@
 # Challenge - Developer Frontend
 
 Woow! Parabéns em chegar nesta etapa do processo!
-Nossa intenção é entender seu conhecimento técnico, para isso temos este desafio.
+Nossa intenção é entender seu conhecimento técnico, para isso temos este desafio. O desafio é para todos os níveis!
 
 
 ## Orientações
@@ -27,11 +27,12 @@ Sua interface deve:
 ### Avaliaremos
 
 * Se o código é limpo, claro e de fácil manutenção;
+* Interface e usabilidade;
 * Criatividade;
 
 ### Insights
 
-* Pode utilizar framework visual XXXX
+* Teste unitários são bem vindos mas são opcionais;
 
 ### O que deve ser entregue?
 * O código criado em seu repositório (pessoal). 
